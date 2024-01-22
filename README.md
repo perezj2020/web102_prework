@@ -27,7 +27,9 @@ Here's a walkthrough of implemented features:
 
 <!-- Replace this with whatever GIF tool you used! -->
 
-GIF created with ...
+GIF created with = [ScreenToGif]
+
+Please open code and copy link to GIF from code
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
